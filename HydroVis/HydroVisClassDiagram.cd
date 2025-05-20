@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="ReliefVisualisation.FormChartFromDB">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>UDAAAIAgQCAkwBAKgADZAB+GQAAABwAAoSACIDQUIGA=</HashCode>
+      <FileName>FormChartFromDB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.FormChartFromFile" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>UTAAAIAkQCAgABAIgADQBBoGQgREJSAA4SBAIDQSIiA=</HashCode>
+      <FileName>FormChartFromFile.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.FormProcessData" Collapsed="true">
+    <Position X="8.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAIEAACEGABAAABCAAAACAEAAAUAAwAgAAQAAASA=</HashCode>
+      <FileName>FormProcessData.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.FormReliefVisualisation" Collapsed="true">
+    <Position X="10" Y="1.25" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>2zyAgcAgxCAga5AIkErSBBqGYAWIJ0CAoSBgoXQaIIU=</HashCode>
+      <FileName>FormReliefVisualisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.GradientLine" Collapsed="true">
+    <Position X="4.5" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAAACAAAAAAAACIAgACCAAAAAgQAABAAIAgAAA=</HashCode>
+      <FileName>GradientLine.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.HydroChart" Collapsed="true">
+    <Position X="6.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADEgAgABAAQAIAAACIAAAAQAACAACgAAAAAAADAAAAQ=</HashCode>
+      <FileName>HydroChart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.Program" Collapsed="true">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.ReliefAxes" Collapsed="true">
+    <Position X="5.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YACYACAACCIAAAAABACAAAQCEAIAABAAAAAAAEAAEAA=</HashCode>
+      <FileName>ReliefAxes.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.ReliefColorPallete" Collapsed="true">
+    <Position X="7" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAABEAAAAAAAAAAAAAAAACAAgAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ReliefColorPallete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ReliefVisualisation.ReliefVisualisation" Collapsed="true">
+    <Position X="10" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>oIIcEADQDBSAAgOSQAAAkAGEBCCAIAAAAAUAoFAIEAI=</HashCode>
+      <FileName>ReliefVisualisation.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HydroVis.DataBase" Collapsed="true">
+    <Position X="3.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DataBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HydroVis.FormMapOfHydroposts" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>JgAABEAQICAEAFoiGACDQASKAAQABAADACgQJwAAACA=</HashCode>
+      <FileName>FormMapOfHydroposts.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HydroVis.SetChartWithInterface" Collapsed="true">
+    <Position X="5.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AABAAEAAAAAAAAAAAAAAAAAAAAAAACAAAgAAAAAACgA=</HashCode>
+      <FileName>SetChartWithInterface.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HydroVis.Properties.Resources" Collapsed="true">
+    <Position X="4.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAABAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="HydroVis.Properties.Settings" Collapsed="true">
+    <Position X="7.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
